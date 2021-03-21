@@ -11,8 +11,8 @@ from don import tintColor
 import don
 
 import ba
-ba.screenmessage('Spaz Mods is created by PCModder for FRIENDS to use',color=(3,-4,8))
-ba.screenmessage('Use don.py to use specific settings',color=(3,-4,8))
+ba.screenmessage('Spaz Mods is created by PCModder for FRIENDS to use',color=(3,-4,8))#created by PCModder full rights to me. :)
+ba.screenmessage('Use don.py to use specific settings',color=(3,-4,8))#I believe now i am gone with the wind
 from _ba import chatmessage as cmsg, get_foreground_host_activity
 import _ba
 from bastd.actor.spaz import Spaz, SpazFactory, BombDiedMessage, CurseExplodeMessage, PunchHitMessage, PickupMessage
